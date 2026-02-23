@@ -1,0 +1,11 @@
+2026-02-21 19:00:01 ERROR Invalid password
+2026-02-21 19:00:03 INFO User logged in
+2026-02-21 19:00:05 WARNING Disk usage high
+2026-02-21 19:00:06 ERROR Database connection failed
+2026-02-21 19:00:07 DEBUG Verbose logging enabled
+
+2026-02-21 19:00:08 INFO File uploaded
+Malformed line without enough fields
+2026-02-21 ERROR Missing time field
+    2026-02-21 19:00:10 WARNING Indented warning
+2026-02-21 19:00:11 error Lowercase severity
